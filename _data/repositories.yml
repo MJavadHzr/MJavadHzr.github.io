@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - MJavadHzr
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - MJavadHzr/CE40417-Artificial-Intelligence
+  - MJavadHzr/CE40717-Machine-Learning
+  - MJavadHzr/CE40816-SPML
+  - IR1401-Spring-Final-Projects/Saadi1401-5_23
+  - Star-Academy/StarAcademy-Group2
+
