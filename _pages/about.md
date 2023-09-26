@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi 👋. I'm Javad. I'm a 4th-year B.S. student studying Computer Engineering at [Sharif University of Technology](https://en.sharif.edu), Iran. I enjoy problem-solving. Before university I participated in 31th National Physics Olympiad and awarded a *silver medal*. Currently my primary interests are `deep learning`, `adversarial machine learning`, and `theoretical machine learning`.
+Hi 👋. I'm Javad. I'm a 4th-year B.S. student studying Computer Engineering at [Sharif University of Technology](https://en.sharif.edu), Iran. What truly captivates me is the world of machine learning, especially the intricate domain of deep neural networks. Right now, I'm focused on the cool areas in machine learning such as `adversarial machine learning`, `federated learning`, and `computer vision`. I firmly believe that by unraveling the secrets of deep networks and their adversarial properties, we can bring machines closer to the level of human cognition. This journey towards enhancing the performance and reliability of artificial intelligence systems is my driving force.
 
-You can find my CV, projects and some of my writings in this webpage. My social media connections can be found at the end of the page. Contact me if you want to know me more. I would be more than happy to talk to you.
+Thank you for visiting my academic webpage, where I'll be sharing my research findings, projects, and insights on the fascinating world of computer engineering and machine learning. Feel free to explore my work, and don't hesitate to reach out if you share similar interests or have any questions.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
