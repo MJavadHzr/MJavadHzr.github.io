@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://MJavadHzr.github.io/sitemap.xml
