@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Mohammad Javad Hezareh
-    - name: Date of Birth
-      value: 8th March 2001
+    # - name: Date of Birth
+    #   value: 8th March 2001
     - name: Languages
       value: English, Persian
 
@@ -15,14 +15,76 @@
       institution: Sharif University of Technology, Tehran, Iran
       year: 2019 - now
       description:
-        - "Major GPA: 19.36/20"
+        # - "Major GPA: 19.36/20"
         - "Total GPA: 19.07/20"
+    - title: Minor in Mathematics
+      institution: Sharif University of Technology, Tehran, Iran
+      year: 2021 - now
     - title: Highschool Diploma in Physics and Mathematics
       institution: Shahid Beheshti Highschool, Kashmar, Iran
       year: 2016 - 2019
       description:
         - "GPA: 19.76/20"
 
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Adversarial Machine Learning
+#       items: 
+#         - Description 1.
+#     - title: Computer Vision
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2019 - now
+      items: 
+        - National Elite Foundation Fellowship
+    - year: 2019
+      items: 
+        - Ranked 76th among 164 000+ in Mathematics and Physics National University Entrance Exam (Konkur)
+
+    - year: 2018
+      items: 
+        - Silver Medal in 31st Iran National Physics Olympiad
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: <i>Research Internship</i>
+      institution: <a href="https://informatik.rub.de/infsec/">InfSec group</a>, Ruhr University of Bochum, Bochum, Germany
+      year: 2023 Aug. - now
+      description:
+        - Working on the adversarial robustness of federated and distributed models against black-box adversarial attacks.
+        # - During this internship I worked on the robustness of deep learning models against adversarial attacks. We explored different query-based and transfer-based attacks on federated and distributed setups. 
+
+    - title: <i>Research Assistant</i>
+      institution: <a href="https://ir.linkedin.com/company/sharif-mll">ML lab</a>, Sharif University of Technology, Iran
+      year: 2023 Jul. - now
+      description:
+        - Working on few-shot segmentation of medical images.
+    
+    - title: <i>Research Internship</i>
+      institution: AI-Med group, Tehran, Iran
+      year: 2022 Jul. - 2022 Oct.
+      description:
+        - Working on generative models. We tried to trian a GAN model to generate tumor masks.
+
+- title: Other Experience
+  type: time_table
+  contents:
+    - title: <i>AI Challenge, Sharif University of Technology</i>
+      institution: Technical Staff
+      year: Spring 2021
+      description:
+        - As a member of Server/Client team
+        - As an instructor of workshops
+    - title: <i>CodeStar Academy, Tehran, Iran</i>
+      institution: Softwear Engineering Intern
+      year: Summer 2020
+      description:
+        - Working on developing a graph-based data analysis platform.
 # - title: Experience
 #   type: time_table
 #   contents:
@@ -56,31 +118,7 @@
 #       institution: University of Zurich, Zurich, Switzerland
 #       year: 1909 - 1911
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2019 - now
-      items: 
-        - National Elite Foundation Fellowship
-    - year: 2019
-      items: 
-        - Ranked 76th among 164 000+ in Mathematics and Physics National University Entrance Exam (Konkur)
 
-    - year: 2018
-      items: 
-        - Silver Medal in 31st Iran National Physics Olympiad
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
 
 # - title: Other Interests
 #   type: list
