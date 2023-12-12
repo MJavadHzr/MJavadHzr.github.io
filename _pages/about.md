@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi 👋. I'm [Javad](https://www.youtube.com/watch?v=0MmSNfBza4s). I'm an undergraduate student at [Sharif University of Technology](https://en.sharif.edu), Iran, about to gradute with a B.S in Computer Engineering and a minor in mathematics.
+Hi 👋. I'm [Javad](https://www.youtube.com/watch?v=0MmSNfBza4s). I'm an undergraduate student at [Sharif University of Technology](https://en.sharif.edu), Iran, about to graduate with a B.S. in Computer Engineering and a minor in Mathematics.
 
 What truly captivates me is the world of machine learning. Right now, I'm focused on areas in machine learning such as `trustworthy machine learning`, `federated learning`, and `computer vision`. I firmly believe that by unraveling the secrets of deep networks and their adversarial properties, we can bring machines closer to the level of human cognition. This journey towards enhancing the performance and reliability of artificial intelligence systems is my driving force.
 
