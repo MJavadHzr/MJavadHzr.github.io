@@ -56,7 +56,7 @@
       institution: <a href="https://informatik.rub.de/infsec/">InfSec group</a>, Ruhr University of Bochum, Bochum, Germany
       year: 2023 Aug. - now
       description:
-        - Working on the adversarial robustness of federated and distributed models against black-box adversarial attacks.
+        - Working on the adversarial robustness of ensemble models against black-box adversarial attacks.
         # - During this internship I worked on the robustness of deep learning models against adversarial attacks. We explored different query-based and transfer-based attacks on federated and distributed setups. 
 
     - title: <i>Research Assistant</i>
@@ -69,7 +69,7 @@
       institution: AI-Med group, Tehran, Iran
       year: 2022 Jul. - 2022 Oct.
       description:
-        - Working on generative models. We tried to trian a GAN model to generate tumor masks.
+        - Working on generative models. We tried to train a GAN model to generate tumor masks.
 
 - title: Other Experience
   type: time_table
@@ -81,7 +81,7 @@
         - As a member of Server/Client team
         - As an instructor of workshops
     - title: <i>CodeStar Academy, Tehran, Iran</i>
-      institution: Softwear Engineering Intern
+      institution: Software Engineering Intern
       year: Summer 2020
       description:
         - Working on developing a graph-based data analysis platform.
