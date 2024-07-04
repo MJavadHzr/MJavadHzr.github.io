@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started an internship at [RUB](https://informatik.rub.de/infsec/) working on trustworthy machine learning.
+I started an internship at [RUB](https://www.ruhr-uni-bochum.de/en) working on trustworthy machine learning.
